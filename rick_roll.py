@@ -5,7 +5,7 @@ import time
 
 name = "Casey Koehn"
 website = "https://digitalcoffeecup.com"
-contact = "caseykoehn3@gmail.com"
+contact = "email_here"
 job_title = "Python - Flutter Dev"
 github = "https://github.com/caseyKoehn/rick-roll"
 space = "\n\n"
