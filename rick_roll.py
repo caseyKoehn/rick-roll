@@ -3,13 +3,14 @@ import webbrowser
 import platform
 import time
 
+mess = "You've been rickrolled!"
 name = "Casey Koehn"
 website = "https://digitalcoffeecup.com"
 contact = "email_here"
 job_title = "Python - Flutter Dev"
 github = "https://github.com/caseyKoehn/rick-roll"
 space = "\n\n"
-message = name + space + job_title + space + website + space + contact + space + github
+message = mess + space + name + space + job_title + space + website + space + contact + space + github
 
 try:
     import keyboard
